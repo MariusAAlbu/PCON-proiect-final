@@ -1,5 +1,5 @@
 # (Titlul)
-(Scurtă descriere. Aici explic cum functioneaza.)
+(Scurtă descriere.)
 
 ## (Instalare)
 ...
