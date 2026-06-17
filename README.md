@@ -1,11 +1,11 @@
 # (Titlul)
-(Scurtă descriere.)
+Granular Randomizer
 
 ## (Instalare)
 ...
 
 ## (Utilizare)
-...
+Patch-ul utilizeaza doua fisiere audio pe care s-au aplicat diferite proprietati asociate functiei grain.sampler~. Utilizand slider-e si butoanele de "toggle", grain.sampler~ poate fi manipulat astfel incat sunetul sa para ca este "inghetat", inversat sau intins pe o perioada mai lunga de timp, dandu-i impresia de efect "slow-motion".
 
 ## (Istoric)
 
@@ -16,7 +16,8 @@
 (X.06) ...
 
 ## (Link-uri)
-...
+https://plugdata.org/reference.html#ELSE%2Fgrain.sampler~
+https://plugdata.org/reference.html#vanilla%2Fspigot
 
 # Dezvoltarea proiectului
 
