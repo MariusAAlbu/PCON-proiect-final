@@ -2,7 +2,7 @@
 Granular Randomizer
 
 ## (Instalare)
-1.Download
+1.Download tot proiectul de [aici](https://mega.nz/file/D8ggzCqY#-HMycUsxsMkjv2Ez9-VnTN7jiNIxI7KjqSSlOvEs_Ws)
 2.Dublu-clic pe fisierul .pd
 3.Enjoy
 
